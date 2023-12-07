@@ -20,3 +20,5 @@ Variabel dalam data dijelaskan sebagai berikut :
 - Race : tweet tersebut adalah cyberbullying yang berdasarkan etnis (0= tidak , 1= iya)
 - Religion : tweet tersebut adalah cyberbullying yang berdasarkan agama, organisasi agama, atau keyakinan tertentu (0= tidak , 1= iya)
 Dengan menggunakan data dan informasi yang tersedia, lakukanlah proses analisis pada data dengan menggunakan metode yang sesuai (mencakup pembuatan essai singkat dan pengolahan data).
+
+``` melakukan analisis data, pemrosesan teks, serta pembuatan dan evaluasi model Machine Learning untuk mengklasifikasikan tweet sebagai cyberbullying atau bukan. Tujuan dari analisis ini adalah untuk memberikan wawasan tentang masalah cyberbullying di Twitter, menunjukkan karakteristiknya, dan memberikan rekomendasi solusi dalam menangani kasus cyberbullying berdasarkan model Machine Learning yang telah dibuat. ```
